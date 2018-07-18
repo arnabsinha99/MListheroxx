@@ -13,12 +13,12 @@ features_train, features_test, labels_train, labels_test = preprocess() #this is
 from sklearn import svm 
 
 clf = svm.SVC(C=10000,kernel = "rbf")
-t = time()
+#t = time()
 
 clf.fit(features_train,labels_train)
 #print("Training time : ",round(time()-t,3)," s") 
 
-t = time()
+#t2 = time()
 pred = clf.predict(features_test[:])
 #print("Training time : ",round(time()-t,3)," s")
 
