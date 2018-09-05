@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[142]:
+# given a dataset, we try to plot the scatter plots of pairs of features to observe which pair classifies the 2 labels perfectly.
 
 
 import pandas as pd
@@ -13,17 +14,17 @@ import matplotlib.pyplot as plt
 get_ipython().run_line_magic('matplotlib', 'inline')
 df = pd.read_excel('data.xlsx',index = [])
 
-df
+#df
 
-df.head()
+#df.head()
 
-df['Label'][0]
+#df['Label'][0]
 
-df1 = df[df['Label']==1]
+df1 = df[df['Label']==1]   # to store the rows with label = 1
 
 df2 = df[df['Label']==2]
 
-fig,axes = plt.subplots(nrows = 9,ncols = 5,figsize = (40,40))
+fig,axes = plt.subplots(nrows = 9,ncols = 5,figsize = (40,40))  # 45 plots in total i.e. 9*5 = 45
 
 axes = axes.ravel()    #to change the axes array into a flat 1-D array
 count = 0
@@ -31,7 +32,7 @@ for i in range(10):
     #print(y)
     for j in range(i+1,10):
         x = df1[i+1]
-        x = x.tolist()
+        x = x.tolist()  # to convert Series to list
         #print(x)
         y = df1[j+1]
         y = y.tolist()
@@ -39,7 +40,7 @@ for i in range(10):
         y1 = df2[j+1]
         x1 = x1.tolist()
         y1 = y1.tolist()
-        axes[count].scatter(x,y,c='r')
+        axes[count].scatter(x,y,c='r')   #refers to the subplot that appear at axis[count] in the flattened axes array 
         axes[count].scatter(x1,y1,c='b')
         axes[count].set_title("Feature {0} vs Feature {1}".format((i+1),(j+1)))
         axes[count].set_xlabel("Feature {0}".format((i+1)))
