@@ -28,7 +28,7 @@ fig,axes = plt.subplots(nrows = 9,ncols = 5,figsize = (40,40))  # 45 plots in to
 fig.subplots_adjust(hspace = 0.5) # to adjust spaces between two rows of plots
 
 axes = axes.ravel()    #to change the axes array into a flat 1-D array
-count = 0
+count = 0               #counter variable for number of plots
 for i in range(10):   
     #print(y)
     for j in range(i+1,10):
