@@ -25,6 +25,7 @@ df1 = df[df['Label']==1]   # to store the rows with label = 1
 df2 = df[df['Label']==2]
 
 fig,axes = plt.subplots(nrows = 9,ncols = 5,figsize = (40,40))  # 45 plots in total i.e. 9*5 = 45
+fig.subplots_adjust(hspace = 0.5) # to adjust spaces between two rows of plots
 
 axes = axes.ravel()    #to change the axes array into a flat 1-D array
 count = 0
