@@ -1,3 +1,6 @@
+# Simple code to implement NN in Keras. 
+
+
 from keras.models import Sequential
 import numpy as np
 
