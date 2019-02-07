@@ -11,3 +11,6 @@ Codes and versions of various topics i practise on
   
 * Implementation of Dropout and it explanation:- [Here](https://machinelearningmastery.com/dropout-regularization-deep-learning-models-keras/   )
 
+* Convolution NN for Visual Recognition CS231n :- [CNN](http://cs231n.github.io/convolutional-networks/#pool)
+
+  This has a complete explanation with Math about the different types of CNN Layers, CNN Architecture and additional references. 
