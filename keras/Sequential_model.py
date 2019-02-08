@@ -1,4 +1,4 @@
-# Simple code to implement NN in Keras. 
+# Simple code to implement NN in Keras. Used ReLu activation layer and sigmoid layer to calculate the class i.e. 0 or 1
 
 
 from keras.models import Sequential
