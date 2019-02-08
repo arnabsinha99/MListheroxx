@@ -27,4 +27,7 @@ Codes and versions of various topics i practise on
    to evaluate the loss function value. The following link also has the implementation of Softmax classifier. Keras uses a direct function
    for setting the optimizer. 
    
-* 
+* [Comprehensive Guide to CNN](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+
+   This very neatly and briefly explains about the various layers of a classical CNN and how things work out in one. You might well get a
+   beautiful understanding of many of the basic terms in CNN.
