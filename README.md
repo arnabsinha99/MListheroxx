@@ -1,5 +1,6 @@
 # MListheroxx
-Codes and versions of various topics i practise on
+
+This repo is meant for a self progress record. I will keep updating it with the posts, topics and websites I refer to in order to learn new concepts, codes and various other things in the field of Data Science, ML and AI.
 
 ### Useful links that I find while studying ML and AI
 
@@ -31,3 +32,7 @@ Codes and versions of various topics i practise on
 
    This very neatly and briefly explains about the various layers of a classical CNN and how things work out in one. You might well get a
    beautiful understanding of many of the basic terms in CNN.
+
+### Date:- 09/02/2019
+
+*
