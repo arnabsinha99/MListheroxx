@@ -33,6 +33,8 @@ This repo is meant for a self progress record. I will keep updating it with the 
    This very neatly and briefly explains about the various layers of a classical CNN and how things work out in one. You might well get a
    beautiful understanding of many of the basic terms in CNN.
 
-### Date:- 09/02/2019
+### Date:- 10/02/2019
 
-*
+*  [Why is bias necessary in ANN](https://stackoverflow.com/questions/7175099/why-the-bias-is-necessary-in-ann-should-we-have-separate-bias-for-each-layer) :- This has a pretty good answer as to why we need to include bias in ANN.
+
+
