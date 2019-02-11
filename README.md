@@ -37,4 +37,8 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
 *  [Why is bias necessary in ANN](https://stackoverflow.com/questions/7175099/why-the-bias-is-necessary-in-ann-should-we-have-separate-bias-for-each-layer) :- This has a pretty good answer as to why we need to include bias in ANN.
 
+### Date:- 11/02/2019
 
+* [Everything you need to know about NN](https://medium.com/ravenprotocol/everything-you-need-to-know-about-neural-networks-6fcc7a15cb4)
+
+   It gives a pretty good explanation of most of the topics that one would encounter in the field of NN. 
