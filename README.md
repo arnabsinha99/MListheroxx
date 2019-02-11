@@ -35,7 +35,9 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
 ### Date:- 10/02/2019
 
-*  [Why is bias necessary in ANN](https://stackoverflow.com/questions/7175099/why-the-bias-is-necessary-in-ann-should-we-have-separate-bias-for-each-layer) :- This has a pretty good answer as to why we need to include bias in ANN.
+*  [Why is bias necessary in ANN](https://stackoverflow.com/questions/7175099/why-the-bias-is-necessary-in-ann-should-we-have-separate-bias-for-each-layer)
+   
+   This has a pretty good answer as to why we need to include bias in ANN.
 
 ### Date:- 11/02/2019
 
