@@ -44,3 +44,10 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Everything you need to know about NN](https://medium.com/ravenprotocol/everything-you-need-to-know-about-neural-networks-6fcc7a15cb4)
 
    It gives a pretty good explanation of most of the topics that one would encounter in the field of NN. 
+   
+### Date:- 13/02/2019
+
+* [A brief view of machine learning pipeline in python](https://medium.com/@yanhann10/a-brief-view-of-machine-learning-pipeline-in-python-5f50b941fca8) 
+
+   I learnt a new concept of pipelining in Python where we can create a structure to implement various algorithms back to back in a
+   pipeline form. 
