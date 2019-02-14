@@ -51,3 +51,9 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
    I learnt a new concept of pipelining in Python where we can create a structure to implement various algorithms back to back in a
    pipeline form. 
+
+### Date:- 14/02/2019
+
+* [Primer for learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
+
+   This is a very good site to learn Google Colab! Do visit it!
