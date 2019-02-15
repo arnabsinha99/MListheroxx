@@ -1,7 +1,7 @@
 clc;
 clear all;
 close all;
-a = imread('Images/frame1_1.jpg');
+a = imread('frame1_1.jpg');
 b = vision.CascadeObjectDetector();
 bbox = step(b,a);
 imshow(a);
