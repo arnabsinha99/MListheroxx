@@ -57,3 +57,9 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Primer for learning Google Colab](https://medium.com/dair-ai/primer-for-learning-google-colab-bb4cabca5dd6)
 
    This is a very good site to learn Google Colab! Do visit it!
+   
+### Date:- 16/02/2019   
+
+* [Simple NN from Scratch](https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0)
+
+   Simple implementation of NN with Pytorch. 
