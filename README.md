@@ -63,3 +63,9 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Simple NN from Scratch](https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0)
 
    Simple implementation of NN with Pytorch. 
+   
+### Date:- 17/02/2019
+
+* [A detailed look into the top three activation functions](https://link.medium.com/cNOrhEkJnU)
+
+   A good lookthrough at the reasons behind choosing one of the three top 3 activation functions. 
