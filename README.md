@@ -69,3 +69,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [A detailed look into the top three activation functions](https://link.medium.com/cNOrhEkJnU)
 
    A good lookthrough at the reasons behind choosing one of the three top 3 activation functions. 
+
+### Date:- 18/02/2019
+
+* [Introduction to Pytorch](https://medium.com/deeplearningbrasilia/deep-learning/-introduction-to-pytorch-5bd39421c84)
