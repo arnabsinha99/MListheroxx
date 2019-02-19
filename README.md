@@ -73,3 +73,9 @@ This repo is meant for a self progress record. I will keep updating it with the 
 ### Date:- 18/02/2019
 
 * [Introduction to Pytorch](https://medium.com/deeplearningbrasilia/deep-learning/-introduction-to-pytorch-5bd39421c84)
+
+### Date:- 19/02/2019
+
+* [How to build a Neural Network with Keras](https://towardsdatascience.com/how-to-build-a-neural-network-with-keras-e8faa33d0ae4)
+
+   Creating a NN using IMDB dataset in Keras.
