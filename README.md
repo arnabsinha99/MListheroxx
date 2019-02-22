@@ -79,3 +79,9 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [How to build a Neural Network with Keras](https://towardsdatascience.com/how-to-build-a-neural-network-with-keras-e8faa33d0ae4)
 
    Creating a NN using IMDB dataset in Keras.
+   
+### Date:- 22/02/2019
+
+* [NLP Classifiers with Transfer Learning and Weak Supervision](https://towardsdatascience.com/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8?source=email-anon_d3c65036a267--publication.newsletter)
+
+
