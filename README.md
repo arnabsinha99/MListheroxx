@@ -84,4 +84,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
 * [NLP Classifiers with Transfer Learning and Weak Supervision](https://towardsdatascience.com/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8?source=email-anon_d3c65036a267--publication.newsletter)
 
+* [CAN BUS](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus/language/en)
 
+   This is an excellent intro to CANBUS Network. If one wants to work on data from vehicles in the field of Data Science, you can very
+   easily understand the mechanics from CSSElectronic's intro to CANBUS Network, OBD2 and the tools to extract the data. 
