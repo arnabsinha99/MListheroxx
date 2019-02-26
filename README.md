@@ -72,3 +72,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Math behind SVM - One of the best explanations](https://shuzhanfan.github.io/2018/05/understanding-mathematics-behind-support-vector-machines/)
 
    You might benefit a lot from this blog about the Math behind SVM. It is one of the finest I have come across.
+   
+* [Machine Learning with NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
+
+
