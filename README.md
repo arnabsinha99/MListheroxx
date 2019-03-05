@@ -75,4 +75,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
    
 * [Machine Learning with NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
 
+* [Pipelining in Python](https://medium.com/@yanhann10/a-brief-view-of-machine-learning-pipeline-in-python-5f50b941fca8)
 
+   I had never thought about this but pipelining does exist in Python language. Much needed to implement various models in ML and AI. Do
+   have a read at this!
