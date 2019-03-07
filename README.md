@@ -2,9 +2,7 @@
 
 This repo is meant for a self progress record. I will keep updating it with the posts, topics and websites I refer to in order to learn new concepts, codes and various other things in the field of Data Science, ML and AI.
 
-### Useful links that I find while studying ML and AI
-
-### Date:- 07/02/2019
+### Useful links that I find while studying Machine Learning and AI. 
 
 * [NIN(Network In Network](http://teleported.in/posts/network-in-network/) 
    
@@ -79,3 +77,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
    I had never thought about this but pipelining does exist in Python language. Much needed to implement various models in ML and AI. Do
    have a read at this!
+   
+* [Importing datasets in Google Colab](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
+
+   If you are using Google Colab and you find difficulty in importing datasets, follow this link.
