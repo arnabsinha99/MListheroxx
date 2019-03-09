@@ -80,4 +80,12 @@ This repo is meant for a self progress record. I will keep updating it with the 
    
 * [Importing datasets in Google Colab](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92)
 
-   If you are using Google Colab and you find difficulty in importing datasets, follow this link.
+   If you are using Google Colab and you find difficulty in importing datasets, follow this link
+   
+* [Learning AI](https://skymind.ai/wiki/)
+
+   A great link if you want to get a general most of the concepts related to AI.
+
+* [Master Link](https://docs.google.com/spreadsheets/d/1brGCIAQUl1LKIMQSaYGnLGXmJZX9jt4PrgR8n-MfPDg/edit#gid=0)
+
+   Master link to which framework for which domain!
