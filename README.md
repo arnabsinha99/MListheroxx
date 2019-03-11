@@ -89,3 +89,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Master Link](https://docs.google.com/spreadsheets/d/1brGCIAQUl1LKIMQSaYGnLGXmJZX9jt4PrgR8n-MfPDg/edit#gid=0)
 
    Master link to which framework for which domain!
+
+* [Develop first xgboost model python scikit learn](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
+
+   Took syntax help from here for animal prediction challenge. Do refer for reference!
