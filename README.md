@@ -93,3 +93,12 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Develop first xgboost model python scikit learn](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
 
    Took syntax help from here for animal prediction challenge. Do refer for reference!
+
+* [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/) 
+
+  [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+  
+  [Parallel Gradient Boosting Decision Trees](http://zhanpengfang.github.io/418home.html)
+  
+  The above three links are references to XGBoost and Gradient Boosting. It will help you to understand the working behind one of the most
+  influential algorithms in today's Data Science world. 
