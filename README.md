@@ -98,15 +98,15 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
   [Complete Guide to Parameter Tuning in XGBoost (with codes in Python)](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
   
-  [Parallel Gradient Boosting Decision Trees](http://zhanpengfang.github.io/418home.html)
+* [Parallel Gradient Boosting Decision Trees](http://zhanpengfang.github.io/418home.html)
   
   The above three links are references to XGBoost and Gradient Boosting. It will help you to understand the working behind one of the most
   influential algorithms in today's Data Science world. 
   
-  [Reading a csv file with different parameters](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)
+* [Reading a csv file with different parameters](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/)
   
   It is a good article about reading a .csv file into your code by utilizing various parameters in the .read.csv() function. 
   
-  [Gradient Boosting - The Math](https://explained.ai/gradient-boosting/L2-loss.html#sec:2.3)
+* [Gradient Boosting - The Math](https://explained.ai/gradient-boosting/L2-loss.html#sec:2.3)
   
   Excellent article to understand the intuition and quite a bit Math behind Gradient Boosting.
