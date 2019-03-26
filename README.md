@@ -110,3 +110,8 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Gradient Boosting - The Math](https://explained.ai/gradient-boosting/L2-loss.html#sec:2.3)
   
   Excellent article to understand the intuition and quite a bit Math behind Gradient Boosting.
+  
+* [Semantic Segmentation in Image Processing](https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54)
+
+  A good article to understand the approach of classical as well as DL methods of semantic segmentation of images. Might have to refer the
+  internet to understand underlying sub-topics within this article. Informative for sure!
