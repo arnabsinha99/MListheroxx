@@ -115,3 +115,12 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
   A good article to understand the approach of classical as well as DL methods of semantic segmentation of images. Might have to refer the
   internet to understand underlying sub-topics within this article. Informative for sure!
+  
+* [ROC curves and analysis using them](https://acutecaretesting.org/en/articles/roc-curves-what-are-they-and-how-are-they-used)
+
+  ROC curves are a pretty good way of checking as to how accurate the predictions have been made by your model. The Area under the ROC curve
+  determines how well the model has performed. Higher the area, higher the precision. To read more, follow the link!
+
+  [Terms relating to a confusion matrix](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+  
+  No other better source to understand a confusion matrix completely. Please do read this!
