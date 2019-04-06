@@ -124,3 +124,10 @@ This repo is meant for a self progress record. I will keep updating it with the 
   [Terms relating to a confusion matrix](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
   
   No other better source to understand a confusion matrix completely. Please do read this!
+  
+* [Attention in RNN](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)
+
+  Explains about the topic of Attention in RNN. It is used to ease the task of context learning by focusing on certain parts of the data.
+  Do have a read!
+
+  
