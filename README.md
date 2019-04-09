@@ -130,4 +130,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
   Explains about the topic of Attention in RNN. It is used to ease the task of context learning by focusing on certain parts of the data.
   Do have a read!
 
-  
+* [Level-Set Method in Computer Vision](https://wiseodd.github.io/techblog/2016/11/05/levelset-method/)
+
+  A method to align the orientation of images using CV and model the movement of curves which cannot be done using DNN easily. Do have a
+  look at the math and the Python implementation. 
