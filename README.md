@@ -134,3 +134,5 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
   A method to align the orientation of images using CV and model the movement of curves which cannot be done using DNN easily. Do have a
   look at the math and the Python implementation. 
+
+* [Time series prediction using LSTM](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
