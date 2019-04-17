@@ -136,3 +136,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
   look at the math and the Python implementation. 
 
 * [Time series prediction using LSTM](https://blog.statsbot.co/time-series-prediction-using-recurrent-neural-networks-lstms-807fa6ca7f)
+
+* [Trends levels and seasonality in Time series](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
+
+   A good article explaining about the three terms level, trend and seasonality that are very important to understand Time Series.
