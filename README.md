@@ -145,3 +145,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
    Refer the two links given at the bottom of this page, i.e., Basics and Normal form. A neat tutorial of Hough transform required for
    edge linking on Edge detected images.
+
+* [Otsu Thresholding](http://www.labbookpages.co.uk/software/imgProc/otsuThreshold.html)
+
+   Optimal thresholding technique in Image Processing. *This is not in ML but I found this worthy enough to be mentioned as it is a major part of pre-processing*
