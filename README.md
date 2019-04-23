@@ -140,3 +140,8 @@ This repo is meant for a self progress record. I will keep updating it with the 
 * [Trends levels and seasonality in Time series](https://machinelearningmastery.com/decompose-time-series-data-trend-seasonality/)
 
    A good article explaining about the three terms level, trend and seasonality that are very important to understand Time Series.
+
+* [Hough Transform for Edge Linking](http://aishack.in/tutorials/hough-transform-basics/)
+
+   Refer the two links given at the bottom of this page, i.e., Basics and Normal form. A neat tutorial of Hough transform required for
+   edge linking on Edge detected images.
