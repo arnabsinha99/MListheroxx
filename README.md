@@ -4,7 +4,7 @@ This repo is meant for a self progress record. I will keep updating it with the 
 
 ### Useful links that I find while studying Machine Learning and AI. 
 
-* [NIN(Network In Network](http://teleported.in/posts/network-in-network/) 
+* [NIN(Network In Network)](http://teleported.in/posts/network-in-network/) 
    
    Had an explanation of MLPConv and Global Average Pooling in it. 
   
