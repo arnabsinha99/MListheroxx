@@ -1,3 +1,5 @@
+
+#importing libraries
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
@@ -6,7 +8,7 @@ import numpy as np
 
 
 
-
+#reading data from csv files
 data=pd.read_csv('train.csv')
 X_test=pd.read_csv('test.csv')
 
@@ -37,6 +39,9 @@ i=1
 f=plt.figure(figsize=(15,15))
 bt=np.arange(0,23)
 
+#plotting plot between unwanted features and remaing features.
+#and making subplot for each unwanted feature.Also saving image of 
+#each subpplot.So total 6 image
 for i in range(0,6):
     f=plt.figure(figsize=(15,15))
     for y in range(0,21):
