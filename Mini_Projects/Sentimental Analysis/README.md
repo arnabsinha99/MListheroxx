@@ -5,3 +5,6 @@
 
 ## What's next?
 * Automatic analysis using classification
+
+## References
+* [What is VADER and Sentimental Analysis](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
