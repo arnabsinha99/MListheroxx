@@ -9,3 +9,5 @@
 *  imblearn - 0.5.0
 
 To run the code, just open an online IDE for python and upload this codefile on it.
+
+## Result of contest: Rank 118 out of 3500+ participants
