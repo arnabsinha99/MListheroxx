@@ -17,7 +17,7 @@ load_dotenv()
 groq_api_key=os.getenv('GROQ_API_KEY')
 os.environ["GOOGLE_API_KEY"]=os.getenv("GOOGLE_API_KEY")
 
-st.title("Gemma Chat with Document Q&A")
+st.title("Gemma Chat with PDFs Q&A")
 
 # Chunk size is the maximum number of characters that a chunk can contain.
 # Chunk overlap is the number of characters that should overlap between two adjacent chunks.
