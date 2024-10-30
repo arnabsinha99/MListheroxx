@@ -8,3 +8,6 @@ streamlit
 langchain_community
 python-dotenv
 pypdf
+langchain-huggingface
+langchain_experimental
+langgraph
