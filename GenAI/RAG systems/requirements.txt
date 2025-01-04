@@ -11,3 +11,7 @@ pypdf
 langchain-huggingface
 langchain_experimental
 langgraph
+psycopg2-binary
+tiktoken
+langchain-postgres
+boto3
